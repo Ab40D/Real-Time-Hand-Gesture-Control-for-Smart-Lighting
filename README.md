@@ -1,6 +1,6 @@
 # Real-Time Hand Gesture Control for Smart Lighting
 
-![Project Preview](images/hero.png)
+![Project Preview](onndoff.png)
 
 A computer vision-based smart lighting system that allows a user to control a physical light using hand gestures.
 
