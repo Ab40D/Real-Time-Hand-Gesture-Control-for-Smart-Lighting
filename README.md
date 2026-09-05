@@ -101,7 +101,7 @@ It also serves as a small example of how alternative user interfaces can be inte
 
 ## Project Architecture
 
-![System Architecture](archtc.png)
+![System Architecture](buttonofon.png)
 
 The architecture separates the system into three main layers:
 
