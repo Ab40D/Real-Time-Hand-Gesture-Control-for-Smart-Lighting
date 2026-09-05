@@ -101,7 +101,7 @@ It also serves as a small example of how alternative user interfaces can be inte
 
 ## Project Architecture
 
-![System Architecture](images/architecture.png)
+![System Architecture](archtc.png)
 
 The architecture separates the system into three main layers:
 
@@ -136,6 +136,6 @@ This project is part of my broader exploration of:
 ---
 
 
-video link : https://www.youtube.com/watch?v=qdAkY2eS1vQ
+
 
 **Author:** Abdelkhalek Mammeri
